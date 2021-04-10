@@ -47,3 +47,21 @@ body {
     font-weight: bold;
     font-size: 1rem;
 }
+.navbar {
+    width: 80%;
+    height: 4rem;
+    margin-top: 0;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    border-radius: 1rem;
+    position: fixed;
+    top: .5%;
+    align-items: center;
+}
+.navbar span {
+    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+    color: cornsilk;
+    font-weight: bold;
+}
